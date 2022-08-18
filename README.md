@@ -38,7 +38,6 @@ ________________________________________________________________________________
 
   ![k](https://komarev.com/ghpvc/?username=MuniraAlzhrani&color=green)
 
-<img src="https://komarev.com/ghpvc/?username=MuniraAlzhrani&style=flat-square&color=blue" alt=""/>
 
  </a>
 </div>
