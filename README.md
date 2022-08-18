@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 
 
-## Streak stats 
+## 	:fire: Streak stats 
 
  [![GitHub Streak]( https://github-readme-streak-stats.herokuapp.com/?user=MuniraAlzhrani&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -62,7 +62,7 @@ ________________________________________________________________________________
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## Connect with me:
+## :handshake: Connect with me:
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/munirah-alzhrani-a24b7a195">
