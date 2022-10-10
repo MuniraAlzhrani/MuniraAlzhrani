@@ -16,7 +16,6 @@ ________________________________________________________________________________
 
 <li> :woman_technologist: :bar_chart:  Junior Data Scientist- Interested to apply Data Science to real life problems and develop innovative solutions for them.
 
-<li> :telescope:I'm currently looking for data scientist job ,and looking to collaborate with company that has a great vision for doing something unique and different                  with data 
 
 
 
